@@ -4,7 +4,7 @@
 [![React Frontend](https://img.shields.io/badge/Frontend-React_&_TS-cyan.svg)](https://react.dev/)
 [![Database](https://img.shields.io/badge/Database-Supabase-green.svg)](https://supabase.com/)
 
-An advanced, high-performance refactored platform for the official **Olympiad Hub** (https://github.com/MRMD07/nstc-prep-hub). 
+An advanced, high-performance refactored platform for the official **[Olympiad Hub](https://github.com/MRMD07/nstc-prep-hub)**. 
 Written in React and Typescript. Backend is written in [python](https://github.com/MRMD07/olympiad-oracle-backend)
 
 ---
